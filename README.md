@@ -6,11 +6,12 @@ Analysis Guns Tragedy Dataset and made a machine learning using KMeans Algorithm
 
 ## 📂 Project Structure
 📦 Guns-Clustering-KMeans
+```
 ┣ 📁 data/ → Original dataset and clustered-dataset
 ┣ 📁 src/ → Classification.ipynb
 ┣ 📁 src/ → Clustering.ipynb
 ┣ 📄 README.md → Project description
-
+```
 ## ⚙️ Technology that I used
 - 🐍 **Python**  
 - 📊 **Pandas, NumPy and the other**  
